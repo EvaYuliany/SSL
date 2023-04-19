@@ -6,3 +6,4 @@
 - **Número y título del trabajo:** 0/ "Hello, World!" en C
 - **Transcripción del enunciado**: Generar una primera aproximación a github, compiladores y generación de código que puede surgir, a partir de un programa en C.
 - **Hipótesis de trabajo que surgen luego de leer el enunciado:** La creación desde cero de un programa por mas simple que sea, es util para el aprendizaje del uso de herramientas. 
+- **Compilador:** MinGW C11
